@@ -1,3 +1,5 @@
+I made this when I was just starting out with ML. It detects forgeries of my own signature. It's fairly accurate :p
+
 Run 'VisComm' for training over the dataset and verification over cross validation set
 
 Run 'untitled1' for starting the user interface 
@@ -10,3 +12,4 @@ It is referenced directly in the function 'Testing' which is called in 'untitled
 In the version on Github the original data could not be uploaded.
 
 I can make it available publicly on request.
+
